@@ -1,4 +1,4 @@
-i = open("books(1).txt", "r") #to read the input file books.txt
+i = open("books.txt", "r") #to read the input file books.txt
 o = open("01.txt", "w") # to create a file in which output will be stored
 
 for line in i:

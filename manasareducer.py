@@ -15,7 +15,7 @@ for line in s:
       r.write(thisKey + '\t' + str(av/thisValue)+'\n')
 
     # start over when changing keys
-    thisKey = average_rating
+    thisKey = author
     thisValue = 0.0
     av =0.0
   
