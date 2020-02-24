@@ -26,6 +26,12 @@ The key attributes of the data set are: Title, Author, Average Ratings.
    for each author, find average rating.
 * Azhar Alali: 
    for each title, I'm going to find the highest rating.
+   ![Screenshot (13)](https://user-images.githubusercontent.com/46798680/75128718-0a366000-568b-11ea-9065-951d54587dff.png)
+   
+   ![Screenshot (14)](https://user-images.githubusercontent.com/46798680/75128741-2cc87900-568b-11ea-82bb-13a90d7f96ec.png)
+
+
+
 * Farheen Mohammad:  
    for each title ,find the number of authors.
 
