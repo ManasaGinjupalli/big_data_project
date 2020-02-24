@@ -34,9 +34,9 @@ The key attributes of the data set are: Title, Author, Average Ratings.
 
 * Farheen Mohammad:  
    for each title ,find the number of authors.
-   ![Screenshot (13)](https://github.com/ManasaGinjupalli/big_data_project/blob/master/images/Screenshot%20(69).png)
-   ![Screenshot (14)](https://github.com/ManasaGinjupalli/big_data_project/blob/master/images/Screenshot%20(70).png)
-   ![Screenshot (15)](https://github.com/ManasaGinjupalli/big_data_project/blob/master/images/Screenshot%20(71).png)
+   ![Screenshot (13)](https://github.com/ManasaGinjupalli/big_data_project/blob/master/farheen/images/Screenshot%20(69).png)
+   ![Screenshot (13)](https://github.com/ManasaGinjupalli/big_data_project/blob/master/farheen/images/Screenshot%20(70).png)
+   ![Screenshot (13)](https://github.com/ManasaGinjupalli/big_data_project/blob/master/farheen/images/Screenshot%20(71).png)
    
 ##PROBLEM SOLUTIONS
 
