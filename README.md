@@ -24,6 +24,9 @@ The key attributes of the data set are: Title, Author, Average Ratings.
 ## BIG DATA PROBLEMS:
 * Manasa Ginjupalli:
    for each author, find average rating.
+   ![Screenshot (28)](https://github.com/ManasaGinjupalli/big_data_project/blob/master/Manasa/Screenshot%20(28).png)
+   ![Screenshot (29)](https://github.com/ManasaGinjupalli/big_data_project/blob/master/Manasa/Screenshot%20(29).png)
+   ![Screenshot (30)](https://github.com/ManasaGinjupalli/big_data_project/blob/master/Manasa/Screenshot%20(30).png)
 * Azhar Alali: 
    for each title, I'm going to find the highest rating.
   ![Screenshot (15)](https://user-images.githubusercontent.com/46798680/75932488-1ebde980-5e3d-11ea-8892-7d4f7b2270b3.png)
